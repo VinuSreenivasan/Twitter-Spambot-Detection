@@ -6,7 +6,7 @@ Directory structure
 ```
 Dataset
     Contains twitter dataset
-Algorithms
+Classifiers
     Algorithms used in this project,
     1. Perceptron (Dynamic, Aggressive)
     2. Supper Vector Machines
@@ -25,7 +25,7 @@ Program file information
 ```
 How to run
 =====
-cd Algorithms
+cd Classifiers
 ```
 eg. python perceptron.py Dataset/data.train Dataset/data.eval Dataset/data.test
 ```
